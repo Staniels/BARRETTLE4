@@ -1,0 +1,10 @@
+C:\Users\kuyam\source\repos\BarrettoLE2\BarrettoBlogDB\bin\Debug\BarrettoBlogDB.dacpac
+C:\Users\kuyam\source\repos\BarrettoLE2\BarrettoBlogDB\bin\Debug\BarrettoBlogDB.dll
+C:\Users\kuyam\source\repos\BarrettoLE2\BarrettoBlogDB\bin\Debug\BarrettoBlogDB.pdb
+C:\Users\kuyam\source\repos\BarrettoLE2\BarrettoBlogDB\obj\Debug\BarrettoBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\kuyam\source\repos\BarrettoLE2\BarrettoBlogDB\obj\Debug\Model.xml
+C:\Users\kuyam\source\repos\BarrettoLE2\BarrettoBlogDB\obj\Debug\refactor.xml
+C:\Users\kuyam\source\repos\BarrettoLE2\BarrettoBlogDB\obj\Debug\postdeploy.sql
+C:\Users\kuyam\source\repos\BarrettoLE2\BarrettoBlogDB\obj\Debug\predeploy.sql
+C:\Users\kuyam\source\repos\BarrettoLE2\BarrettoBlogDB\obj\Debug\BarrettoBlogDB.dll
+C:\Users\kuyam\source\repos\BarrettoLE2\BarrettoBlogDB\obj\Debug\BarrettoBlogDB.pdb

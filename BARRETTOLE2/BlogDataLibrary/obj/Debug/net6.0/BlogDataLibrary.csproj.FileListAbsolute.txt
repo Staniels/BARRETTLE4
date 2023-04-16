@@ -1,0 +1,15 @@
+C:\Users\kuyam\source\repos\BarrettoLE2\BARRETTOLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Users\kuyam\source\repos\BarrettoLE2\BARRETTOLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuyam\source\repos\BarrettoLE2\BARRETTOLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfoInputs.cache
+C:\Users\kuyam\source\repos\BarrettoLE2\BARRETTOLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfo.cs
+C:\Users\kuyam\source\repos\BarrettoLE2\BARRETTOLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kuyam\source\repos\BarrettoLE2\BARRETTOLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.deps.json
+C:\Users\kuyam\source\repos\BarrettoLE2\BARRETTOLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.dll
+C:\Users\kuyam\source\repos\BarrettoLE2\BARRETTOLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.pdb
+C:\Users\kuyam\source\repos\BarrettoLE2\BARRETTOLE2\BlogDataLibrary\bin\Debug\net6.0\BARRETTOBlogDB.dll
+C:\Users\kuyam\source\repos\BarrettoLE2\BARRETTOLE2\BlogDataLibrary\bin\Debug\net6.0\BARRETTOBlogDB.pdb
+C:\Users\kuyam\source\repos\BarrettoLE2\BARRETTOLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.CopyComplete
+C:\Users\kuyam\source\repos\BarrettoLE2\BARRETTOLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.dll
+C:\Users\kuyam\source\repos\BarrettoLE2\BARRETTOLE2\BlogDataLibrary\obj\Debug\net6.0\refint\BlogDataLibrary.dll
+C:\Users\kuyam\source\repos\BarrettoLE2\BARRETTOLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.pdb
+C:\Users\kuyam\source\repos\BarrettoLE2\BARRETTOLE2\BlogDataLibrary\obj\Debug\net6.0\ref\BlogDataLibrary.dll
